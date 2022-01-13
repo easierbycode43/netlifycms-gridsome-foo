@@ -1,5 +1,5 @@
 ---
-title: A post with a g-image (hopefully)
+title: A post with a foo-image (hopefully)
 date: 2020-07-25T20:21:08.117Z
 published: true
 tags:
